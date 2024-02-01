@@ -32,10 +32,10 @@
 <h2>Coding Platform :</h2>
 
 <div id="badges">
-    <a href="https://leetcode.com/roy_707/">
+    <a href="https://leetcode.com/karanveer_x/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/theajayrawat](https://auth.geeksforgeeks.org/user/roy_707">
+    <a href="https://auth.geeksforgeeks.org/user/karanveerx">
     <img src="https://img.shields.io/badge/GeeksForGeeks-darkgreen?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks Badge"/>
     </a>
 </div>
