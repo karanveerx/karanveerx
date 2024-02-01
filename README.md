@@ -19,7 +19,7 @@
 <h2>Social Info :</h2>
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/sagar-ray-3a6297225/">
+    <a href="www.linkedin.com/in/karan-veer-3193b7231">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=raysagar807@gmail.com">
